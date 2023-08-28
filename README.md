@@ -1,2 +1,2 @@
-# company-branding-public
-Public company branding for our properties and associates. Please see usage guidelines!
+# Scatter Media Kit
+Public company branding for Scatter. Please see usage guidelines!
