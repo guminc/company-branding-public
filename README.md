@@ -85,8 +85,6 @@ Adding a characteristic 'glow' to Scatter brand elements is encouraged, however 
 
 When presented in third-party contexts, the Scatter brand can freely be presented using the third-party brand colors, as long as an approximate minimum contrast ratio of 4.5:1 is preserved.
 
-![](./guide/examples/example-partner-color.png)
-
 ### Usage
 
 ![](./guide/examples/example-color-mix.png)
